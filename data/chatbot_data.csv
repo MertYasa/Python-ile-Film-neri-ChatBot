@@ -1,0 +1,378 @@
+question,answer
+Merhaba,Merhaba! Size nasıl yardımcı olabilirim?
+Nasılsın?,"Ben bir yapay zekayım, her zaman yardımcı olmaya hazırım!"
+Film önerir misin?,Tabii! Hangi türde film istediğini söyler misin?
+Bana bir film öner,"Ne türde film seversin? Aksiyon, romantik, bilim kurgu?"
+Bilim kurgu filmi öner,Hemen! En iyi bilim kurgu filmlerini listeliyorum.
+Romantik film öner,Aşk dolu filmler arıyorsan tam yerine geldin!
+Aksiyon filmi öner,Adrenalini yüksek bir film öneriyorum.
+Korku filmi öner,Korku filmleri arıyorsan birkaç önerim var.
+Komedi filmi öner,Gülmeye hazır ol! En iyi komediler geliyor.
+Teşekkürler,Rica ederim! Yardımcı olabildiysem ne mutlu.
+Görüşürüz,Hoşça kal! Yine beklerim.
+Ne yapabilirsin?,Film önerisi yapabilir ve basit sohbet edebilirim.
+Selam,Selam! Sana nasıl yardımcı olabilirim?
+Bugün nasılsın?,Ben iyiyim! Umarım sen de öylesindir.
+Sıkıldım,O halde bir film önerisi seni eğlendirebilir!
+Bana güzel bir film öner,İşte izlemeye değer birkaç film...
+IMDb puanı yüksek film öner,Yüksek puanlı filmleri listeliyorum.
+Yeni film öner,Son yıllarda çıkan filmlerden birkaçını seçiyorum.
+Eski film öner,Klasiklerden vazgeçemeyenler için önerilerim var.
+En iyi film,Bu çok göreceli ama IMDb'de yüksek puan almışlara bakabiliriz.
+Tavsiye,Elbette! Birkaç önerim olacak.
+Hangi filmleri önerirsin?,Sana birkaç favori film söyleyebilirim.
+Yardım eder misin?,Yardım etmek için buradayım!
+Favori filmin ne?,Benim favorim yok ama senin için öneri yapabilirim.
+Bugün hava nasıl?,"Maalesef hava durumu bilgim yok, ama film konusunda iyiyim!"
+Şaka yap,Ben pek espri yapamam ama harika film esprileri biliyorum :)
+Canım sıkılıyor,Film izlemek ister misin? Harika önerilerim var.
+Film kategorileri neler?,"Aksiyon, komedi, korku, dram, romantik, bilim kurgu..."
+Dizi öner,Şu an sadece film önerileri sunuyorum.
+En iyi komedi,Kahkaha garantili birkaç komedi filmi öneriyorum.
+En iyi aksiyon,"Patlamalar, kovalamacalar... aksiyon dolu öneriler geliyor."
+Hoşça kal,Görüşmek üzere!
+Sağ ol,Her zaman!
+Çok iyisin,Teşekkür ederim :)
+"Merak ediyorum, Nasılsın? Tavsiyen nedir?","Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sana göre Nasılsın? Bir önerin var mı?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Acaba Nasılsın? Lütfen.,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sana göre Nasılsın? Lütfen.,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Acaba Nasılsın? Ne düşünüyorsun?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Acaba Nasılsın? Yardımcı olur musun?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Nasılsın? Bir önerin var mı?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Nasılsın? Sen ne dersin?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+"Merak ediyorum, Nasılsın? Bir önerin var mı?","Harikayım, teşekkür ederim! Siz nasılsınız?"
+Adın ne? Yardımcı olur musun?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+"Merak ediyorum, Adın ne? Sen ne dersin?","Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+"Merak ediyorum, Adın ne?","Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sence Adın ne? Cevabın nedir?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sana göre Adın ne? Yardımcı olur musun?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sence Adın ne? Ne düşünüyorsun?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Adın ne? Yardımcı olur musun?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Ne yapıyorsun?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+"Merak ediyorum, Ne yapıyorsun? Lütfen.",Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+"Merak ediyorum, Ne yapıyorsun? Sen ne dersin?",Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sence Ne yapıyorsun? Cevabın nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Ne yapıyorsun? Tavsiyen nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sence Ne yapıyorsun? Ne düşünüyorsun?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+"Merak ediyorum, Ne yapıyorsun?",Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Acaba Ne yapıyorsun? Lütfen.,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+"Merak ediyorum, Kaç yaşındasın? Ne düşünüyorsun?",Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın? Cevabın nedir?,Benim yaşım yok ama bilgim güncel!
+Sence Kaç yaşındasın? Bir önerin var mı?,Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın? Bir önerin var mı?,Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın? Tavsiyen nedir?,Benim yaşım yok ama bilgim güncel!
+Sana göre Kaç yaşındasın? Ne düşünüyorsun?,Benim yaşım yok ama bilgim güncel!
+"Merak ediyorum, Kaç yaşındasın? Tavsiyen nedir?",Benim yaşım yok ama bilgim güncel!
+Sence Kaç yaşındasın? Tavsiyen nedir?,Benim yaşım yok ama bilgim güncel!
+Sence Kaç yaşındasın?,Benim yaşım yok ama bilgim güncel!
+Türk müsün? Bir önerin var mı?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sence Türk müsün? Lütfen.,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+"Merak ediyorum, Türk müsün? Bir önerin var mı?",Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sence Türk müsün? Sen ne dersin?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sana göre Türk müsün? Tavsiyen nedir?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Türk müsün? Yardımcı olur musun?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sence Türk müsün?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sana göre Türk müsün? Yardımcı olur musun?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Acaba Seninle oyun oynayabilir miyim? Bir önerin var mı?,Tabii! Hangi oyunu oynamak istersin?
+Sana göre Seninle oyun oynayabilir miyim? Bir önerin var mı?,Tabii! Hangi oyunu oynamak istersin?
+Sana göre Seninle oyun oynayabilir miyim? Yardımcı olur musun?,Tabii! Hangi oyunu oynamak istersin?
+"Merak ediyorum, Seninle oyun oynayabilir miyim? Ne düşünüyorsun?",Tabii! Hangi oyunu oynamak istersin?
+Sence Seninle oyun oynayabilir miyim? Tavsiyen nedir?,Tabii! Hangi oyunu oynamak istersin?
+Acaba Seninle oyun oynayabilir miyim? Lütfen.,Tabii! Hangi oyunu oynamak istersin?
+Acaba Seninle oyun oynayabilir miyim? Yardımcı olur musun?,Tabii! Hangi oyunu oynamak istersin?
+Seninle oyun oynayabilir miyim? Tavsiyen nedir?,Tabii! Hangi oyunu oynamak istersin?
+Sence Seninle oyun oynayabilir miyim? Sen ne dersin?,Tabii! Hangi oyunu oynamak istersin?
+Seninle oyun oynayabilir miyim? Yardımcı olur musun?,Tabii! Hangi oyunu oynamak istersin?
+"Merak ediyorum, Şaka yapar mısın?",Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Şaka yapar mısın? Lütfen.,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+"Merak ediyorum, Şaka yapar mısın? Ne düşünüyorsun?",Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Şaka yapar mısın? Bir önerin var mı?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sana göre Şaka yapar mısın? Bir önerin var mı?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Şaka yapar mısın? Tavsiyen nedir?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Şaka yapar mısın? Cevabın nedir?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sana göre Şaka yapar mısın? Cevabın nedir?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sana göre Şaka yapar mısın? Ne düşünüyorsun?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sence Bilim kurgu filmi önerir misin? Yardımcı olur musun?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Bilim kurgu filmi önerir misin? Yardımcı olur musun?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+"Merak ediyorum, Bilim kurgu filmi önerir misin? Cevabın nedir?","Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sence Bilim kurgu filmi önerir misin?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+"Merak ediyorum, Bilim kurgu filmi önerir misin? Ne düşünüyorsun?","Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sence Bilim kurgu filmi önerir misin? Cevabın nedir?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Sen ne dersin?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Acaba Bilim kurgu filmi önerir misin? Cevabın nedir?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Bir önerin var mı?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Tavsiyen nedir?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sence Bilim kurgu filmi önerir misin? Sen ne dersin?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Acaba Bilim kurgu filmi önerir misin? Ne düşünüyorsun?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Ne düşünüyorsun?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Cevabın nedir?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sana göre Bilim kurgu filmi önerir misin? Yardımcı olur musun?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Acaba Bilim kurgu filmi önerir misin? Tavsiyen nedir?,"Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+"Merak ediyorum, Bilim kurgu filmi önerir misin?","Elbette! 'Interstellar', 'The Matrix' ve 'Inception' harika tercihler."
+Sence Romantik film önerir misin? Yardımcı olur musun?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sana göre Romantik film önerir misin? Ne düşünüyorsun?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sana göre Romantik film önerir misin?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sana göre Romantik film önerir misin? Cevabın nedir?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin? Bir önerin var mı?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+"Merak ediyorum, Romantik film önerir misin? Yardımcı olur musun?","Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+"Merak ediyorum, Romantik film önerir misin? Tavsiyen nedir?","Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin? Cevabın nedir?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin? Tavsiyen nedir?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sana göre Romantik film önerir misin? Tavsiyen nedir?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Acaba Romantik film önerir misin? Lütfen.,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin? Lütfen.,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin? Ne düşünüyorsun?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Romantik film önerir misin? Sen ne dersin?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+"Merak ediyorum, Romantik film önerir misin? Lütfen.","Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Romantik film önerir misin?,"Kesinlikle! 'Aşk Tesadüfleri Sever', 'Not Defteri' gibi filmler hoşuna gidebilir."
+Sence Komedi filmi istiyorum Yardımcı olur musun?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Sana göre Komedi filmi istiyorum Yardımcı olur musun?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum Cevabın nedir?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Komedi filmi istiyorum Bir önerin var mı?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Sana göre Komedi filmi istiyorum Cevabın nedir?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum Bir önerin var mı?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum Sen ne dersin?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum Yardımcı olur musun?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+"Merak ediyorum, Komedi filmi istiyorum Tavsiyen nedir?","Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Komedi filmi istiyorum Yardımcı olur musun?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Sana göre Komedi filmi istiyorum Sen ne dersin?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Komedi filmi istiyorum Tavsiyen nedir?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+Acaba Komedi filmi istiyorum Ne düşünüyorsun?,"Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+"Merak ediyorum, Komedi filmi istiyorum Cevabın nedir?","Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+"Merak ediyorum, Komedi filmi istiyorum Bir önerin var mı?","Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+"Merak ediyorum, Komedi filmi istiyorum Ne düşünüyorsun?","Seni güldürecek filmler: 'Recep İvedik', 'Hangover', 'Zombieland'."
+"Merak ediyorum, Yeni çıkan filmler neler? Bir önerin var mı?",2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sence Yeni çıkan filmler neler? Yardımcı olur musun?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sence Yeni çıkan filmler neler? Lütfen.,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Acaba Yeni çıkan filmler neler? Lütfen.,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+"Merak ediyorum, Yeni çıkan filmler neler?",2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sana göre Yeni çıkan filmler neler?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sence Yeni çıkan filmler neler? Bir önerin var mı?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sence Yeni çıkan filmler neler?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Acaba Yeni çıkan filmler neler? Tavsiyen nedir?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sana göre Yeni çıkan filmler neler? Lütfen.,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Sana göre Yeni çıkan filmler neler? Tavsiyen nedir?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Acaba Yeni çıkan filmler neler? Yardımcı olur musun?,2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+"Merak ediyorum, Yeni çıkan filmler neler? Lütfen.",2025’in en yeni filmleri arasında 'Görevimiz Tehlike 8' ve 'Dune: Part Two' var.
+Korku filmi öner Lütfen.,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Korku filmi öner Cevabın nedir?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Acaba Korku filmi öner,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Korku filmi öner Yardımcı olur musun?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Sana göre Korku filmi öner Tavsiyen nedir?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Acaba Korku filmi öner Bir önerin var mı?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Sana göre Korku filmi öner Yardımcı olur musun?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+"Merak ediyorum, Korku filmi öner Tavsiyen nedir?","Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Korku filmi öner Sen ne dersin?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Korku filmi öner Tavsiyen nedir?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Acaba Korku filmi öner Tavsiyen nedir?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+"Merak ediyorum, Korku filmi öner Bir önerin var mı?","Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Sana göre Korku filmi öner Lütfen.,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Acaba Korku filmi öner Ne düşünüyorsun?,"Gerilim dolu bir gece için: 'The Conjuring', 'Insidious', 'Siccin'."
+Sence Dram filmi tavsiye et Ne düşünüyorsun?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+"Merak ediyorum, Dram filmi tavsiye et Bir önerin var mı?","Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Acaba Dram filmi tavsiye et Yardımcı olur musun?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Dram filmi tavsiye et Lütfen.,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sana göre Dram filmi tavsiye et,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Acaba Dram filmi tavsiye et Bir önerin var mı?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sence Dram filmi tavsiye et Bir önerin var mı?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+"Merak ediyorum, Dram filmi tavsiye et Cevabın nedir?","Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sana göre Dram filmi tavsiye et Bir önerin var mı?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+"Merak ediyorum, Dram filmi tavsiye et Sen ne dersin?","Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Acaba Dram filmi tavsiye et Cevabın nedir?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+"Merak ediyorum, Dram filmi tavsiye et Yardımcı olur musun?","Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Dram filmi tavsiye et Yardımcı olur musun?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Acaba Dram filmi tavsiye et Sen ne dersin?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sence Dram filmi tavsiye et Yardımcı olur musun?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sana göre Dram filmi tavsiye et Yardımcı olur musun?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Dram filmi tavsiye et Cevabın nedir?,"Derin hikayeler için: 'Babam ve Oğlum', 'The Pursuit of Happyness'."
+Sence Aksiyon filmi öner Lütfen.,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sana göre Aksiyon filmi öner Lütfen.,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sana göre Aksiyon filmi öner Sen ne dersin?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+"Merak ediyorum, Aksiyon filmi öner Sen ne dersin?","Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sence Aksiyon filmi öner Tavsiyen nedir?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Aksiyon filmi öner Cevabın nedir?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sence Aksiyon filmi öner Cevabın nedir?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Acaba Aksiyon filmi öner Ne düşünüyorsun?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Acaba Aksiyon filmi öner Yardımcı olur musun?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Aksiyon filmi öner Lütfen.,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Acaba Aksiyon filmi öner Cevabın nedir?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sence Aksiyon filmi öner Bir önerin var mı?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sana göre Aksiyon filmi öner Ne düşünüyorsun?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Acaba Aksiyon filmi öner Bir önerin var mı?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+"Merak ediyorum, Aksiyon filmi öner Bir önerin var mı?","Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Sana göre Aksiyon filmi öner Yardımcı olur musun?,"Adrenalin istiyorsan: 'John Wick', 'Mad Max: Fury Road'."
+Acaba En iyi yerli filmler? Bir önerin var mı?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Acaba En iyi yerli filmler? Ne düşünüyorsun?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+"Merak ediyorum, En iyi yerli filmler? Yardımcı olur musun?","'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+En iyi yerli filmler? Lütfen.,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sana göre En iyi yerli filmler? Bir önerin var mı?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sence En iyi yerli filmler? Yardımcı olur musun?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+"Merak ediyorum, En iyi yerli filmler? Cevabın nedir?","'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sence En iyi yerli filmler? Ne düşünüyorsun?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sana göre En iyi yerli filmler? Lütfen.,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+"Merak ediyorum, En iyi yerli filmler?","'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Acaba En iyi yerli filmler? Yardımcı olur musun?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+"Merak ediyorum, En iyi yerli filmler? Ne düşünüyorsun?","'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sana göre En iyi yerli filmler?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Sana göre En iyi yerli filmler? Yardımcı olur musun?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Acaba En iyi yerli filmler?,"'Kış Uykusu', 'Babam ve Oğlum', 'G.O.R.A.' gibi filmleri tavsiye ederim."
+Bugün hava nasıl? Cevabın nedir?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+"Merak ediyorum, Bugün hava nasıl? Lütfen.",Konumunu bilirsem sana hava durumunu söyleyebilirim.
+"Merak ediyorum, Bugün hava nasıl?",Konumunu bilirsem sana hava durumunu söyleyebilirim.
+Bugün hava nasıl? Sen ne dersin?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+Acaba Bugün hava nasıl? Cevabın nedir?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+Bugün hava nasıl? Tavsiyen nedir?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+"Merak ediyorum, Bugün hava nasıl? Ne düşünüyorsun?",Konumunu bilirsem sana hava durumunu söyleyebilirim.
+Acaba Bugün hava nasıl?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+Sana göre Bugün hava nasıl? Bir önerin var mı?,Konumunu bilirsem sana hava durumunu söyleyebilirim.
+"Merak ediyorum, Saat kaç? Tavsiyen nedir?","Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Sence Saat kaç?,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Saat kaç? Sen ne dersin?,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+"Merak ediyorum, Saat kaç?","Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Sana göre Saat kaç? Sen ne dersin?,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+"Merak ediyorum, Saat kaç? Yardımcı olur musun?","Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Saat kaç? Lütfen.,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Acaba Saat kaç? Bir önerin var mı?,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Sence Saat kaç? Cevabın nedir?,"Şu anki saate cihazından bakabilirsin, çünkü anlık verim yok."
+Sence Yarın yağmur yağacak mı? Sen ne dersin?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Sence Yarın yağmur yağacak mı? Yardımcı olur musun?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+"Merak ediyorum, Yarın yağmur yağacak mı? Lütfen.",Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+"Merak ediyorum, Yarın yağmur yağacak mı? Yardımcı olur musun?",Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Acaba Yarın yağmur yağacak mı? Tavsiyen nedir?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+"Merak ediyorum, Yarın yağmur yağacak mı? Sen ne dersin?",Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Sana göre Yarın yağmur yağacak mı? Tavsiyen nedir?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Yarın yağmur yağacak mı? Tavsiyen nedir?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Sence Yarın yağmur yağacak mı? Ne düşünüyorsun?,Bunu kontrol etmek için hava durumu uygulaması kullanmanı öneririm.
+Acaba Bugün günlerden ne? Sen ne dersin?,Bugünün tarihi sistem saatine göre değişiyor.
+"Merak ediyorum, Bugün günlerden ne?",Bugünün tarihi sistem saatine göre değişiyor.
+Acaba Bugün günlerden ne? Yardımcı olur musun?,Bugünün tarihi sistem saatine göre değişiyor.
+Bugün günlerden ne? Yardımcı olur musun?,Bugünün tarihi sistem saatine göre değişiyor.
+Bugün günlerden ne? Cevabın nedir?,Bugünün tarihi sistem saatine göre değişiyor.
+"Merak ediyorum, Bugün günlerden ne? Ne düşünüyorsun?",Bugünün tarihi sistem saatine göre değişiyor.
+Bugün günlerden ne? Sen ne dersin?,Bugünün tarihi sistem saatine göre değişiyor.
+Sence Bugün günlerden ne? Cevabın nedir?,Bugünün tarihi sistem saatine göre değişiyor.
+Acaba Bugün günlerden ne? Bir önerin var mı?,Bugünün tarihi sistem saatine göre değişiyor.
+Acaba Ayın kaçı? Yardımcı olur musun?,Takviminden kontrol edebilirsin.
+Sana göre Ayın kaçı? Yardımcı olur musun?,Takviminden kontrol edebilirsin.
+Acaba Ayın kaçı? Lütfen.,Takviminden kontrol edebilirsin.
+Sence Ayın kaçı? Lütfen.,Takviminden kontrol edebilirsin.
+"Merak ediyorum, Ayın kaçı? Sen ne dersin?",Takviminden kontrol edebilirsin.
+Ayın kaçı? Lütfen.,Takviminden kontrol edebilirsin.
+"Merak ediyorum, Ayın kaçı?",Takviminden kontrol edebilirsin.
+Sana göre Ayın kaçı? Bir önerin var mı?,Takviminden kontrol edebilirsin.
+Einstein kimdir? Lütfen.,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Sence Einstein kimdir?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Sana göre Einstein kimdir? Cevabın nedir?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Einstein kimdir? Tavsiyen nedir?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+"Merak ediyorum, Einstein kimdir? Ne düşünüyorsun?","Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Sence Einstein kimdir? Sen ne dersin?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Acaba Einstein kimdir? Sen ne dersin?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Einstein kimdir? Cevabın nedir?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Acaba Einstein kimdir? Lütfen.,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Sence Einstein kimdir? Cevabın nedir?,"Albert Einstein, görelilik teorisiyle tanınan ünlü bir fizikçidir."
+Sence Kuantum fiziği nedir? Lütfen.,"Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+"Merak ediyorum, Kuantum fiziği nedir? Bir önerin var mı?","Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+"Merak ediyorum, Kuantum fiziği nedir? Cevabın nedir?","Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+Sence Kuantum fiziği nedir? Cevabın nedir?,"Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+Kuantum fiziği nedir? Lütfen.,"Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+Acaba Kuantum fiziği nedir?,"Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+Sana göre Kuantum fiziği nedir?,"Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+"Merak ediyorum, Kuantum fiziği nedir?","Kuantum fiziği, atom altı parçacıkların davranışlarını inceler."
+Sana göre Dünyanın en yüksek dağı nedir? Sen ne dersin?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+Sence Dünyanın en yüksek dağı nedir? Cevabın nedir?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+Sana göre Dünyanın en yüksek dağı nedir?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+"Merak ediyorum, Dünyanın en yüksek dağı nedir?","Everest Dağı, dünyanın en yüksek zirvesidir."
+"Merak ediyorum, Dünyanın en yüksek dağı nedir? Lütfen.","Everest Dağı, dünyanın en yüksek zirvesidir."
+Dünyanın en yüksek dağı nedir? Cevabın nedir?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+Dünyanın en yüksek dağı nedir? Bir önerin var mı?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+Dünyanın en yüksek dağı nedir? Sen ne dersin?,"Everest Dağı, dünyanın en yüksek zirvesidir."
+Dünyanın en yüksek dağı nedir? Lütfen.,"Everest Dağı, dünyanın en yüksek zirvesidir."
+"Merak ediyorum, Deniz neden tuzludur? Bir önerin var mı?",Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sence Deniz neden tuzludur? Bir önerin var mı?,Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sence Deniz neden tuzludur?,Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+"Merak ediyorum, Deniz neden tuzludur? Yardımcı olur musun?",Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+"Merak ediyorum, Deniz neden tuzludur?",Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+"Merak ediyorum, Deniz neden tuzludur? Sen ne dersin?",Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sana göre Deniz neden tuzludur? Ne düşünüyorsun?,Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sana göre Deniz neden tuzludur? Cevabın nedir?,Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sence Deniz neden tuzludur? Lütfen.,Çünkü nehirlerden gelen mineraller zamanla denizlerde birikir.
+Sence Ay neden parlar? Tavsiyen nedir?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Sence Ay neden parlar?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Acaba Ay neden parlar?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Sana göre Ay neden parlar? Lütfen.,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Sana göre Ay neden parlar? Sen ne dersin?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Acaba Ay neden parlar? Cevabın nedir?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+"Merak ediyorum, Ay neden parlar? Sen ne dersin?","Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Ay neden parlar? Bir önerin var mı?,"Ay, Güneş’ten aldığı ışığı yansıttığı için parlar."
+Sence Nasılsın? Lütfen.,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sence Nasılsın? Cevabın nedir?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Acaba Nasılsın? Bir önerin var mı?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sana göre Nasılsın? Tavsiyen nedir?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+"Merak ediyorum, Nasılsın?","Harikayım, teşekkür ederim! Siz nasılsınız?"
+Nasılsın? Yardımcı olur musun?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sence Nasılsın? Tavsiyen nedir?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+"Merak ediyorum, Nasılsın? Yardımcı olur musun?","Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sence Nasılsın? Yardımcı olur musun?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+"Merak ediyorum, Nasılsın? Lütfen.","Harikayım, teşekkür ederim! Siz nasılsınız?"
+Sence Nasılsın?,"Harikayım, teşekkür ederim! Siz nasılsınız?"
+Acaba Adın ne?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Adın ne? Lütfen.,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+"Merak ediyorum, Adın ne? Lütfen.","Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Adın ne? Cevabın nedir?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Adın ne? Bir önerin var mı?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sana göre Adın ne? Sen ne dersin?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sana göre Adın ne? Lütfen.,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Adın ne? Sen ne dersin?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Sence Adın ne? Tavsiyen nedir?,"Ben bir yapay zeka asistanıyım, adım yok ama sana yardımcı olmak için buradayım."
+Acaba Ne yapıyorsun? Cevabın nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sana göre Ne yapıyorsun? Bir önerin var mı?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Acaba Ne yapıyorsun? Bir önerin var mı?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sana göre Ne yapıyorsun? Ne düşünüyorsun?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sence Ne yapıyorsun? Bir önerin var mı?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sana göre Ne yapıyorsun? Cevabın nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Ne yapıyorsun? Cevabın nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Sana göre Ne yapıyorsun? Tavsiyen nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Acaba Ne yapıyorsun? Tavsiyen nedir?,Sizinle konuşuyorum ve yardımcı olmaya hazırım.
+Kaç yaşındasın? Lütfen.,Benim yaşım yok ama bilgim güncel!
+Sana göre Kaç yaşındasın? Cevabın nedir?,Benim yaşım yok ama bilgim güncel!
+"Merak ediyorum, Kaç yaşındasın? Cevabın nedir?",Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın? Yardımcı olur musun?,Benim yaşım yok ama bilgim güncel!
+Kaç yaşındasın? Sen ne dersin?,Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın? Sen ne dersin?,Benim yaşım yok ama bilgim güncel!
+Acaba Kaç yaşındasın?,Benim yaşım yok ama bilgim güncel!
+"Merak ediyorum, Kaç yaşındasın?",Benim yaşım yok ama bilgim güncel!
+Sence Kaç yaşındasın? Ne düşünüyorsun?,Benim yaşım yok ama bilgim güncel!
+Sana göre Kaç yaşındasın? Yardımcı olur musun?,Benim yaşım yok ama bilgim güncel!
+Kaç yaşındasın? Tavsiyen nedir?,Benim yaşım yok ama bilgim güncel!
+Sana göre Kaç yaşındasın? Sen ne dersin?,Benim yaşım yok ama bilgim güncel!
+Acaba Türk müsün? Ne düşünüyorsun?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+"Merak ediyorum, Türk müsün? Tavsiyen nedir?",Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Acaba Türk müsün?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sence Türk müsün? Tavsiyen nedir?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+"Merak ediyorum, Türk müsün?",Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Türk müsün? Lütfen.,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Acaba Türk müsün? Cevabın nedir?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Sana göre Türk müsün?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Acaba Türk müsün? Yardımcı olur musun?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Türk müsün? Cevabın nedir?,Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+"Merak ediyorum, Türk müsün? Yardımcı olur musun?",Ben bir yapay zekayım ama Türkçe konuşabiliyorum.
+Acaba Seninle oyun oynayabilir miyim? Tavsiyen nedir?,Tabii! Hangi oyunu oynamak istersin?
+Sence Seninle oyun oynayabilir miyim? Ne düşünüyorsun?,Tabii! Hangi oyunu oynamak istersin?
+Sence Seninle oyun oynayabilir miyim? Bir önerin var mı?,Tabii! Hangi oyunu oynamak istersin?
+"Merak ediyorum, Seninle oyun oynayabilir miyim?",Tabii! Hangi oyunu oynamak istersin?
+Sana göre Seninle oyun oynayabilir miyim? Sen ne dersin?,Tabii! Hangi oyunu oynamak istersin?
+Seninle oyun oynayabilir miyim? Sen ne dersin?,Tabii! Hangi oyunu oynamak istersin?
+Seninle oyun oynayabilir miyim? Cevabın nedir?,Tabii! Hangi oyunu oynamak istersin?
+Acaba Seninle oyun oynayabilir miyim? Sen ne dersin?,Tabii! Hangi oyunu oynamak istersin?
+Sence Şaka yapar mısın?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+"Merak ediyorum, Şaka yapar mısın? Cevabın nedir?",Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sana göre Şaka yapar mısın? Yardımcı olur musun?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sence Şaka yapar mısın? Cevabın nedir?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sence Şaka yapar mısın? Ne düşünüyorsun?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Acaba Şaka yapar mısın? Sen ne dersin?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sana göre Şaka yapar mısın?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Acaba Şaka yapar mısın?,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+"Merak ediyorum, Şaka yapar mısın? Tavsiyen nedir?",Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
+Sence Şaka yapar mısın? Lütfen.,Tabii! İşte bir şaka: Neden bilgisayar soğuk? Çünkü Windows açık!
