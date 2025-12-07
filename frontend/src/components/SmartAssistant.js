@@ -11,33 +11,34 @@ function SmartAssistant() {
   }, [chatHistory]);
 
   const handleSubmit = async (e) => {
-    e.preventDefault();
-    if (!message.trim()) return;
+  e.preventDefault();
+  if (!message.trim()) return;
 
-    const userMessage = { sender: "user", text: message };
-    setChatHistory((prev) => [...prev, userMessage]);
+  const userMessage = { sender: "user", text: message };
+  setChatHistory((prev) => [...prev, userMessage]);
 
-    const formData = new URLSearchParams();
-    formData.append("user_input", message);
+  try {
+    const res = await fetch("http://localhost:8000/api/chat", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ message }),  // ✅ JSON gönderiyoruz
+    });
 
-    try {
-      const res = await fetch("http://127.0.0.1:8000/api/chat", {
-        method: "POST",
-        body: formData,
-      });
+    const data = await res.json();
+    const botMessage = { sender: "bot", text: data.answer };
+    setChatHistory((prev) => [...prev, botMessage]);
+  } catch (error) {
+    setChatHistory((prev) => [
+      ...prev,
+      { sender: "bot", text: "Sunucuya ulaşılamadı." },
+    ]);
+  }
 
-      const data = await res.json();
-      const botMessage = { sender: "bot", text: data.answer };
-      setChatHistory((prev) => [...prev, botMessage]);
-    } catch (error) {
-      setChatHistory((prev) => [
-        ...prev,
-        { sender: "bot", text: "Sunucuya ulaşılamadı." },
-      ]);
-    }
+  setMessage("");
+};
 
-    setMessage("");
-  };
 
   return (
     <div className="max-w-xl mx-auto bg-white p-6 rounded-xl shadow-md mt-6">
@@ -45,7 +46,6 @@ function SmartAssistant() {
         🤖 Akıllı Asistan
       </h1>
 
-      {/* Mesaj kutusu */}
       <div className="chat-window">
         {chatHistory.map((msg, idx) => (
           <div
@@ -60,7 +60,6 @@ function SmartAssistant() {
         <div ref={chatEndRef} />
       </div>
 
-      {/* Giriş ve Gönderme */}
       <form onSubmit={handleSubmit} className="mt-4 flex flex-col gap-2">
         <input
           type="text"

@@ -1,10 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from backend.api import chatbot_api, recommendation_api
+from api import chatbot_api, recommendation_api
 
 app = FastAPI(title="Chatbot + Film Öneri Sistemi")
 
-# CORS Ayarları
+# CORS Ayarları – frontend ile backend iletişimini sağlamak için
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -13,7 +13,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Router'lar
+# API yönlendirmeleri
 app.include_router(chatbot_api.router, prefix="/api", tags=["Chatbot"])
 app.include_router(recommendation_api.router, prefix="/api", tags=["Recommendation"])
 
